@@ -1,8 +1,7 @@
-seed: Test_dataset/seed.fasta
-ref_gb: Test_dataset/reference.gb
-range: 120000-160000
+seed: Home/Desktop/genomaAcol/seed.fasta
+ref_gb: Home/Desktop/genomaAcol/reference.gb
+range: 120000-170000
 repo: plastaumatic
 novo_path: /mnt2/software/NOVOPlasty/NOVOPlasty4.3.1.pl
 samples:
-  genome1: Test_dataset/test1.fq.gz,Test_dataset/test2.fq.gz
-
+  genome1: Home/Desktop/genomaAcol/An31.1.fq,Home/Desktop/genomaAcol/An31.2.fq
